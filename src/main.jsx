@@ -159,7 +159,7 @@ function App() {
           <div className="contact-copy">
             <p>For project discussions, collaboration or opportunities, you can reach me here.</p>
             <div className="contact-links">
-              <<a href="mailto:prasannapikachu@gmail.com">prasannapikachu@gmail.com <span>↗</span></a>
+              <a href="mailto:prasannapikachu@gmail.com">prasannapikachu@gmail.com <span>↗</span></a>
               <a href="https://github.com/PrasannaNagamuthu" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
               <a href="https://www.linkedin.com/in/prasanna-nagamuthu-b96535358?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
             </div>
