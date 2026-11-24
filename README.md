@@ -1,8 +1,5 @@
 # Portfolio
 
-A simple, responsive portfolio built with React, JavaScript, HTML and CSS.
-# React Portfolio
-
 A minimal, responsive personal portfolio website built using React.js, JavaScript, HTML and CSS.
 
 ## Tech Stack
