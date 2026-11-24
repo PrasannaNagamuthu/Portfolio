@@ -1,32 +1,62 @@
-# Minimal React Portfolio
+# Portfolio
 
 A simple, responsive portfolio built with React, JavaScript, HTML and CSS.
+# React Portfolio
 
-## Run locally
+A minimal, responsive personal portfolio website built using React.js, JavaScript, HTML and CSS.
 
-1. Install Node.js (LTS).
-2. Extract this folder.
-3. Open a terminal in the project folder.
-4. Run:
+## Tech Stack
 
-   ```bash
-   npm install
-   npm run dev
-   ```
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-5. Open the local URL printed by Vite.
+## Features
 
-## Customize before publishing
+- Minimal and responsive design
+- Navigation between sections
+- About, Skills, Projects and Contact sections
+- Mobile-friendly layout
 
-- Replace the sample email, GitHub and LinkedIn URLs in `src/main.jsx`.
-- Add your name and preferred title to the hero section.
-- Update project descriptions, status and links to match your current work.
-- Update the page title and description in `index.html`.
+## Installation and Setup
 
-## Build for deployment
+Clone the repository:
+
+```bash
+git clone https://github.com/PrasannaNagamuthu/Portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## Production Build
+
+To generate the production build:
 
 ```bash
 npm run build
 ```
 
-The production site is generated in the `dist` folder. It can be deployed to Vercel, Netlify or GitHub Pages (with the appropriate Vite base path if needed).
+The generated files will be available in the `dist` directory.
+
+## Deployment
+
+Deployed using [Vercel](https://vercel.com/) with GitHub integration.
+
