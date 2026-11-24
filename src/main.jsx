@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="site-shell">
       <header className="topbar">
-        <a className="wordmark" href="#home" onClick={closeMenu}>PRASANNA<span></span</a>
+        <a className="wordmark" href="#home" onClick={closeMenu}>PRASANNA</a>
         <button
           className="menu-toggle"
           type="button"
@@ -67,10 +67,15 @@ function App() {
         <section className="hero section" id="home">
           <p className="eyebrow">MECHANICAL ENGINEERING · DEVELOPMENT</p>
           <h1>PRASANNA <br /></h1>
-          <h2><span>Building things. <br />Understanding how they work.</span></h2>
+          <h2>About me.</h2>
           <p className="hero-copy">
-            I’m a mechanical engineering student interested in backend development,
-            databases, electronics and practical product design.
+                I’m Prasanna, a B.Tech Mechanical Engineering student at
+                Sri Manakula Vinayagar Engineering College.
+              
+                I enjoy exploring new fields, learning how different systems
+                work and connecting ideas across engineering and technology.
+                My interests include software development, databases,
+                electronics and product design.
           </p>
           <div className="hero-actions">
             <a className="button button-dark" href="#projects">View projects</a>
@@ -154,7 +159,7 @@ function App() {
           <div className="contact-copy">
             <p>For project discussions, collaboration or opportunities, you can reach me here.</p>
             <div className="contact-links">
-              <a href="mailto:prasannapikachu@gmail.com">your.email@example.com <span>↗</span></a>
+              <<a href="mailto:prasannapikachu@gmail.com">prasannapikachu@gmail.com <span>↗</span></a>
               <a href="https://github.com/PrasannaNagamuthu" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
               <a href="https://www.linkedin.com/in/prasanna-nagamuthu-b96535358?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
             </div>
