@@ -106,7 +106,7 @@ function App() {
             <div className="education">
               <span className="small-label">EDUCATION</span>
               <div>
-                <strong>B.E. Mechanical Engineering</strong>
+                <strong>B.Tech. Mechanical Engineering</strong>
                 <span>Sri Manakula Vinayagar Engineering College</span>
                 <span>CGPA: 8.67</span>
               </div>
