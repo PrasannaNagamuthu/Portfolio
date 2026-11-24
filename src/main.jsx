@@ -66,7 +66,8 @@ function App() {
       <main>
         <section className="hero section" id="home">
           <p className="eyebrow">MECHANICAL ENGINEERING · DEVELOPMENT</p>
-          <h1>Prasanna.<br /><span>Building things. Understanding how they work.</span></h1>
+          <h1>PRASANNA <br /></h1>
+          <h2><span>Building things. <br />Understanding how they work.</span></h2>
           <p className="hero-copy">
             I’m a mechanical engineering student interested in backend development,
             databases, electronics and practical product design.
