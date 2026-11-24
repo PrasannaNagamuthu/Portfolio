@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="site-shell">
       <header className="topbar">
-        <a className="wordmark" href="#home" onClick={closeMenu}>PRASANNA<span>.</span></a>
+        <a className="wordmark" href="#home" onClick={closeMenu}>PRASANNA<span></span</a>
         <button
           className="menu-toggle"
           type="button"
@@ -153,9 +153,9 @@ function App() {
           <div className="contact-copy">
             <p>For project discussions, collaboration or opportunities, you can reach me here.</p>
             <div className="contact-links">
-              <a href="mailto:your.email@example.com">your.email@example.com <span>↗</span></a>
-              <a href="https://github.com/your-username" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
-              <a href="https://www.linkedin.com/in/your-profile/" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
+              <a href="mailto:prasannapikachu@gmail.com">your.email@example.com <span>↗</span></a>
+              <a href="https://github.com/PrasannaNagamuthu" target="_blank" rel="noreferrer">GitHub <span>↗</span></a>
+              <a href="https://www.linkedin.com/in/prasanna-nagamuthu-b96535358?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer">LinkedIn <span>↗</span></a>
             </div>
             <p className="edit-note">Replace the sample email and profile links with your own details.</p>
           </div>
